@@ -17,7 +17,7 @@ basic.showLeds(`
 ```
 ## étape 2
 
-Super! Maintenant selectionnez les case dans le blcok SHOW LEDS pour former un X
+Super! Maintenant selectionnez les case dans le block SHOW LEDS pour former un X
 
 ```blocks 
 basic.showLeds(`
